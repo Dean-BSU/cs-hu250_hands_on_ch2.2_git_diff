@@ -8,7 +8,7 @@ Familiarize yourself with the repository by checking the file structure, file co
 Run the `./chaos_monkey1.sh` script.
 
 ## Step 3
-Investigate and understand the changed made to the repository by the `./chaos_monkey1.sh` script.
+Investigate and understand the changes made to the repository by the `./chaos_monkey1.sh` script.
 
 ## Step 4
 Run the `./chaos_monkey2.sh` script.
